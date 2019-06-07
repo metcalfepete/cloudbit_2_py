@@ -41,7 +41,7 @@ for line in r.iter_lines():
     break
 ```
 
-##lb_tk_input.py - Tkinter read Cloudbit input value every 2 seconds
+## lb_tk_input.py - Tkinter read Cloudbit input value every 2 seconds
 
 ![alt text](lb_tk_input.png)
 
@@ -91,7 +91,7 @@ while True:
 	time.sleep(2)
 ```
 
-##lb_tk_output.py - Tkinter set Cloudbit output value
+## lb_tk_output.py - Tkinter set Cloudbit output value
 
 ![alt text](lb_tk_output.png)
 
